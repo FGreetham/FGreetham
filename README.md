@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FGreetham
-- 👀 I’m interested in real-time 3D
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in real-time 3D, gaming, science education and I love learning!
+- 🌱 I’m currently learning C# and am using Unity.
 - 💞️ I’m looking to collaborate on games and educational projects.
-- 📫 How to reach me ...
+- 📫 Reach me on linked in or on Instagram @FrancescaG3D
 
 <!---
 FGreetham/FGreetham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
