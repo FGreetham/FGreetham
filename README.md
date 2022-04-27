@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FGreetham
-- 👀 I’m interested in real-time 3D, gaming, science education and I love learning!
+- 👀 I’m interested in real-time 3D, gaming, education and I love learning!
 - 🌱 I’m currently learning C# and am using Unity.
 - 💞️ I’m looking to collaborate on games and educational projects.
 - 📫 Reach me on LinkedIn or on Instagram @FrancescaG3D
